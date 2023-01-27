@@ -1,0 +1,15 @@
+C:\Users\Катя\Desktop\др2 с-шарп\FirstHW\bin\Debug\net6.0\FirstHW.exe
+C:\Users\Катя\Desktop\др2 с-шарп\FirstHW\bin\Debug\net6.0\FirstHW.deps.json
+C:\Users\Катя\Desktop\др2 с-шарп\FirstHW\bin\Debug\net6.0\FirstHW.runtimeconfig.json
+C:\Users\Катя\Desktop\др2 с-шарп\FirstHW\bin\Debug\net6.0\FirstHW.dll
+C:\Users\Катя\Desktop\др2 с-шарп\FirstHW\bin\Debug\net6.0\FirstHW.pdb
+C:\Users\Катя\Desktop\др2 с-шарп\FirstHW\obj\Debug\net6.0\FirstHW.csproj.AssemblyReference.cache
+C:\Users\Катя\Desktop\др2 с-шарп\FirstHW\obj\Debug\net6.0\FirstHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\Desktop\др2 с-шарп\FirstHW\obj\Debug\net6.0\FirstHW.AssemblyInfoInputs.cache
+C:\Users\Катя\Desktop\др2 с-шарп\FirstHW\obj\Debug\net6.0\FirstHW.AssemblyInfo.cs
+C:\Users\Катя\Desktop\др2 с-шарп\FirstHW\obj\Debug\net6.0\FirstHW.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Desktop\др2 с-шарп\FirstHW\obj\Debug\net6.0\FirstHW.dll
+C:\Users\Катя\Desktop\др2 с-шарп\FirstHW\obj\Debug\net6.0\refint\FirstHW.dll
+C:\Users\Катя\Desktop\др2 с-шарп\FirstHW\obj\Debug\net6.0\FirstHW.pdb
+C:\Users\Катя\Desktop\др2 с-шарп\FirstHW\obj\Debug\net6.0\FirstHW.genruntimeconfig.cache
+C:\Users\Катя\Desktop\др2 с-шарп\FirstHW\obj\Debug\net6.0\ref\FirstHW.dll
