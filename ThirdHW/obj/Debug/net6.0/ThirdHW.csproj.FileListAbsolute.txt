@@ -1,0 +1,15 @@
+C:\Users\Катя\Desktop\др2 с-шарп\ThirdHW\bin\Debug\net6.0\ThirdHW.exe
+C:\Users\Катя\Desktop\др2 с-шарп\ThirdHW\bin\Debug\net6.0\ThirdHW.deps.json
+C:\Users\Катя\Desktop\др2 с-шарп\ThirdHW\bin\Debug\net6.0\ThirdHW.runtimeconfig.json
+C:\Users\Катя\Desktop\др2 с-шарп\ThirdHW\bin\Debug\net6.0\ThirdHW.dll
+C:\Users\Катя\Desktop\др2 с-шарп\ThirdHW\bin\Debug\net6.0\ThirdHW.pdb
+C:\Users\Катя\Desktop\др2 с-шарп\ThirdHW\obj\Debug\net6.0\ThirdHW.csproj.AssemblyReference.cache
+C:\Users\Катя\Desktop\др2 с-шарп\ThirdHW\obj\Debug\net6.0\ThirdHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\Desktop\др2 с-шарп\ThirdHW\obj\Debug\net6.0\ThirdHW.AssemblyInfoInputs.cache
+C:\Users\Катя\Desktop\др2 с-шарп\ThirdHW\obj\Debug\net6.0\ThirdHW.AssemblyInfo.cs
+C:\Users\Катя\Desktop\др2 с-шарп\ThirdHW\obj\Debug\net6.0\ThirdHW.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Desktop\др2 с-шарп\ThirdHW\obj\Debug\net6.0\ThirdHW.dll
+C:\Users\Катя\Desktop\др2 с-шарп\ThirdHW\obj\Debug\net6.0\refint\ThirdHW.dll
+C:\Users\Катя\Desktop\др2 с-шарп\ThirdHW\obj\Debug\net6.0\ThirdHW.pdb
+C:\Users\Катя\Desktop\др2 с-шарп\ThirdHW\obj\Debug\net6.0\ThirdHW.genruntimeconfig.cache
+C:\Users\Катя\Desktop\др2 с-шарп\ThirdHW\obj\Debug\net6.0\ref\ThirdHW.dll
