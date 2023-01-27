@@ -1,0 +1,15 @@
+C:\Users\Катя\Desktop\др2 с-шарп\SecondHW\bin\Debug\net6.0\SecondHW.exe
+C:\Users\Катя\Desktop\др2 с-шарп\SecondHW\bin\Debug\net6.0\SecondHW.deps.json
+C:\Users\Катя\Desktop\др2 с-шарп\SecondHW\bin\Debug\net6.0\SecondHW.runtimeconfig.json
+C:\Users\Катя\Desktop\др2 с-шарп\SecondHW\bin\Debug\net6.0\SecondHW.dll
+C:\Users\Катя\Desktop\др2 с-шарп\SecondHW\bin\Debug\net6.0\SecondHW.pdb
+C:\Users\Катя\Desktop\др2 с-шарп\SecondHW\obj\Debug\net6.0\SecondHW.csproj.AssemblyReference.cache
+C:\Users\Катя\Desktop\др2 с-шарп\SecondHW\obj\Debug\net6.0\SecondHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\Desktop\др2 с-шарп\SecondHW\obj\Debug\net6.0\SecondHW.AssemblyInfoInputs.cache
+C:\Users\Катя\Desktop\др2 с-шарп\SecondHW\obj\Debug\net6.0\SecondHW.AssemblyInfo.cs
+C:\Users\Катя\Desktop\др2 с-шарп\SecondHW\obj\Debug\net6.0\SecondHW.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Desktop\др2 с-шарп\SecondHW\obj\Debug\net6.0\SecondHW.dll
+C:\Users\Катя\Desktop\др2 с-шарп\SecondHW\obj\Debug\net6.0\refint\SecondHW.dll
+C:\Users\Катя\Desktop\др2 с-шарп\SecondHW\obj\Debug\net6.0\SecondHW.pdb
+C:\Users\Катя\Desktop\др2 с-шарп\SecondHW\obj\Debug\net6.0\SecondHW.genruntimeconfig.cache
+C:\Users\Катя\Desktop\др2 с-шарп\SecondHW\obj\Debug\net6.0\ref\SecondHW.dll
