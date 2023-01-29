@@ -1,0 +1,15 @@
+C:\Users\Катя\Desktop\др2 с-шарп\FourthHW\bin\Debug\net6.0\FourthHW.exe
+C:\Users\Катя\Desktop\др2 с-шарп\FourthHW\bin\Debug\net6.0\FourthHW.deps.json
+C:\Users\Катя\Desktop\др2 с-шарп\FourthHW\bin\Debug\net6.0\FourthHW.runtimeconfig.json
+C:\Users\Катя\Desktop\др2 с-шарп\FourthHW\bin\Debug\net6.0\FourthHW.dll
+C:\Users\Катя\Desktop\др2 с-шарп\FourthHW\bin\Debug\net6.0\FourthHW.pdb
+C:\Users\Катя\Desktop\др2 с-шарп\FourthHW\obj\Debug\net6.0\FourthHW.csproj.AssemblyReference.cache
+C:\Users\Катя\Desktop\др2 с-шарп\FourthHW\obj\Debug\net6.0\FourthHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\Desktop\др2 с-шарп\FourthHW\obj\Debug\net6.0\FourthHW.AssemblyInfoInputs.cache
+C:\Users\Катя\Desktop\др2 с-шарп\FourthHW\obj\Debug\net6.0\FourthHW.AssemblyInfo.cs
+C:\Users\Катя\Desktop\др2 с-шарп\FourthHW\obj\Debug\net6.0\FourthHW.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Desktop\др2 с-шарп\FourthHW\obj\Debug\net6.0\FourthHW.dll
+C:\Users\Катя\Desktop\др2 с-шарп\FourthHW\obj\Debug\net6.0\refint\FourthHW.dll
+C:\Users\Катя\Desktop\др2 с-шарп\FourthHW\obj\Debug\net6.0\FourthHW.pdb
+C:\Users\Катя\Desktop\др2 с-шарп\FourthHW\obj\Debug\net6.0\FourthHW.genruntimeconfig.cache
+C:\Users\Катя\Desktop\др2 с-шарп\FourthHW\obj\Debug\net6.0\ref\FourthHW.dll
